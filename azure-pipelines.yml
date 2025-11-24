@@ -15,7 +15,7 @@ variables:
   - name: backendResourceGroup
     value: 'rg-terraform-state'
   - name: backendStorageAccount
-    value: 'YOUR_STATE_STORAGE_ACCOUNT'  # Replace with your actual name
+    value: 'sttfstate20225'  # Replace with your actual name
   - name: backendContainer
     value: 'tfstate'
   - name: backendKey
